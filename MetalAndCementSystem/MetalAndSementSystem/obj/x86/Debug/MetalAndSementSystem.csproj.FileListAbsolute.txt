@@ -1,0 +1,23 @@
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\bin\Debug\MetalAndSementSystem.exe
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\bin\Debug\MetalAndSementSystem.pdb
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.Form1.resources
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.Properties.Resources.resources
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.csproj.GenerateResource.Cache
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.exe
+C:\Users\medot\AppData\Local\Temporary Projects\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.pdb
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.frmClientPage.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.frmHagz.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.frmMain.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.frmAddClient.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.frmPrevClients.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.frmSahb.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.csproj.GenerateResource.cache
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.csproj.CoreCompileInputs.cache
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.csprojAssemblyReference.cache
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndSementSystem.inputDelWhy.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\bin\Debug\MetalAndCementSystem.exe.config
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\bin\Debug\MetalAndCementSystem.exe
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\bin\Debug\MetalAndCementSystem.pdb
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndCementSystem.Properties.Resources.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndCementSystem.exe
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Debug\MetalAndCementSystem.pdb

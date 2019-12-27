@@ -1,0 +1,17 @@
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\bin\Release\MetalAndSementSystem.exe.config
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\bin\Release\MetalAndSementSystem.exe
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\bin\Release\MetalAndSementSystem.pdb
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmClientPage.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmHagz.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmMain.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmAddClient.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmPrevClients.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmSahb.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmSplash.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.frmTotals.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.inputDelWhy.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.Properties.Resources.resources
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndCementSystem.csproj.GenerateResource.cache
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndCementSystem.csproj.CoreCompileInputs.cache
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.exe
+D:\Desktopp\MetalAndSementSystem\MetalAndSementSystem\obj\x86\Release\MetalAndSementSystem.pdb
